@@ -1,3 +1,3 @@
-# Lear from saniyah
+# Learn from saniyah
 
 this is some installation instructions.
